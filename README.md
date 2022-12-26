@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Radul R Dev. /n
+- 👋 Hi, I’m Radul R Dev. <br>
   M.Sc. Computational Biology
 - 👀 I’m interested in Computational Biology, Bioinformatics, Data Science, Blockchain, Genomics and the list goes on...
 - 🌱 I’m currently learning Machine learning, Deep Learning and Biological data analysis
