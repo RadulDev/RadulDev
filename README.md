@@ -10,5 +10,6 @@ You can click the Preview link to take a look at your changes.
 --->
 <hr>
 <div align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=RadulDev&theme=graywhite&border_radius=6&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=RadulDev&theme=graywhite&border_radius=6&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 </div>
