@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Radul R Dev. <br>
-  M.Sc. Computational Biology
+  
+  ![](https://komarev.com/ghpvc/?username=RadulDev&label=PROFILE+VIEWS)
+  
 - 👀 I’m interested in Computational Biology, Bioinformatics, Data Science, Blockchain, Genomics and the list goes on...
 - 🌱 I’m currently learning Machine learning, Deep Learning and Biological data analysis
 - 💞️ I’m looking to collaborate on amazing projects with wonderful people.
