@@ -9,5 +9,6 @@ RadulDev/RadulDev is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 <hr>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=RadulDev&theme=graywhite&border_radius=6&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<div align="center">
+[![GitHub Streak](https://streak-stats.demolab.com?user=RadulDev&theme=graywhite&border_radius=6&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+</div>
