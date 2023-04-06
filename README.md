@@ -1,5 +1,5 @@
-<div align="centre">![](https://komarev.com/ghpvc/?username=RadulDev&label=PROFILE+VIEWS)
-</div>
+![](https://komarev.com/ghpvc/?username=RadulDev&label=PROFILE+VIEWS)
+
 
 - 👋 Hi, I’m Radul R Dev.    
 - 👀 I’m interested in Computational Biology, Bioinformatics, Data Science, Blockchain, Genomics and the list goes on...
