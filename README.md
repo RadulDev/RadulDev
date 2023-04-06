@@ -14,6 +14,6 @@ You can click the Preview link to take a look at your changes.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=RadulDev&theme=transparent&border_radius=6&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
-![Radul's GitHub stats](https://github-readme-stats.vercel.app/api?username=RadulDev&show_icons=true&theme=transparent)
+![Radul's GitHub stats](https://github-readme-stats.vercel.app/api?username=RadulDev&show_icons=true&theme=transparent&card_width=500)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RadulDev&theme=transparent&layout=compact&hide_progress=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RadulDev&theme=transparent&layout=compact&hide_progress=true&langs_count=8&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
