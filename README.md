@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Radul R Dev. <br>
-  
-  ![](https://komarev.com/ghpvc/?username=RadulDev&label=PROFILE+VIEWS)
-  
+<div align="centre">![](https://komarev.com/ghpvc/?username=RadulDev&label=PROFILE+VIEWS)
+</div>
+
+- 👋 Hi, I’m Radul R Dev.    
 - 👀 I’m interested in Computational Biology, Bioinformatics, Data Science, Blockchain, Genomics and the list goes on...
 - 🌱 I’m currently learning Machine learning, Deep Learning and Biological data analysis
 - 💞️ I’m looking to collaborate on amazing projects with wonderful people.
@@ -16,4 +16,4 @@ You can click the Preview link to take a look at your changes.
 
 ![Radul's GitHub stats](https://github-readme-stats.vercel.app/api?username=RadulDev&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RadulDev&layout=compact&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RadulDev&theme=transparent&layout=compact&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
