@@ -5,7 +5,7 @@
 - 👀 I’m interested in Computational Biology, Bioinformatics, Data Science, Blockchain, multiOmics and the list goes on...
 - 🌱 I’m currently learning Machine learning, Deep Learning and Biological data analysis
 - 💞️ I’m looking to collaborate on amazing projects with wonderful people.
-- 📫 How to reach me https://www.linkedin.com/in/radul-r-dev/ 
+- 📫 How to reach me <span>
 <a href="https://www.linkedin.com/in/radul-r-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
