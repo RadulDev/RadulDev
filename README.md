@@ -10,9 +10,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  
-<a href="radulrdev@gmail.com">
-    <img src=" https://img.shields.io/badge/:badgeContent?logo=gmail&link=radulrdev%40gmail.com" alt="gmail Badge"/>
-  </a>
 <!---
 RadulDev/RadulDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
