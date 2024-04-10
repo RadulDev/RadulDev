@@ -8,6 +8,7 @@
 - 📫 How to reach me <span>
 <a href="https://www.linkedin.com/in/radul-r-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/ma?style=for-the-badge&logo=linkedin&logoColor=white" alt="mailID Badge"/>
   </a>
  
 <!---
