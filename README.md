@@ -8,10 +8,6 @@
 - 📫 How to reach me <span>
 <a href="https://www.linkedin.com/in/radul-r-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    <img src="https://img.shields.io/badge/ma?style=for-the-badge&logo=linkedin&logoColor=white" alt="mailID Badge"/>
-  </a>
-<a href="">
-    <img src="https://img.shields.io/badge/ma?style=for-the-badge&logo=linkedin&logoColor=white" alt="mailID Badge"/>
   </a>
 <!---
 RadulDev/RadulDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
