@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <hr>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=RadulDev&theme=transparent&card_width=500&border_radius=6&date_format=j%20M%5B%20Y%5D&mode=monthly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=RadulDev&theme=transparent&card_width=500&border_radius=6&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 ![Radul's GitHub stats](https://github-readme-stats.vercel.app/api?username=RadulDev&show_icons=true&theme=transparent&card_width=500)
 
